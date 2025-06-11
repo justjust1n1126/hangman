@@ -33,7 +33,7 @@ let options = {
 
 };
 
-//count
+
 let winCount = 0;
 let count = 0;
 
