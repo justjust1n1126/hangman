@@ -30,6 +30,14 @@ let options = {
     "Malaysia", "Uzbekistan", "Angola", "Mozambique", "Ghana", "Yemen", "Nepal", "Venezuela", "Cameroon", "IvoryCoast",
     "NorthKorea", "Netherlands", "Belgium", "Greece", "Portugal", "CzechRepublic", "Sweden", "Hungary", "Switzerland", "Austria"
   ],
+  beach: [
+  "Seashells", "Sandcastle", "Surfboard", "BeachUmbrella", "FlipFlops", "BeachBall", "Towel", "Swimsuit", "Sunglasses", "Cooler",
+  "BeachChair", "Sunblock", "Snorkel", "PalmTree", "Waves", "Seagull", "BeachBag", "IceCream", "Lifeguard", "BeachHat",
+  "ShellNecklace", "SandBucket", "BeachFrisbee", "Kite", "FishingRod", "SwimFins", "BeachTowel", "Crab", "Sunset",
+  "Coral", "Starfish", "BeachVolleyball", "WaterBottle", "BeachPicnic", "Sunscreen", "Paddleboard", "JetSki",
+  "Shovel", "OceanBreeze", "BeachWalk", "SaltWater", "BeachTunes", "BeachMat",
+  "Coconut",  "Snacks", "Wetsuit", "Anchor", "TropicalDrink", "Sandals", "BeachNet", 
+];
 
 };
 
